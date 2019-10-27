@@ -1,0 +1,65 @@
+
+<codestructure version="1.5">
+<phptree>
+<treenode node="DigitalGood.php;PHP:PHP Include;C:\openserver\OSPanel\domains\gbphp2\less2\index.php;f9;2;24;2;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="Good.php;PHP:PHP Include;C:\openserver\OSPanel\domains\gbphp2\less2\index.php;f9;1;17;1;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="PicesGood.php;PHP:PHP Include;C:\openserver\OSPanel\domains\gbphp2\less2\index.php;f9;3;22;3;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="WeightGood.php;PHP:PHP Include;C:\openserver\OSPanel\domains\gbphp2\less2\index.php;f9;4;23;4;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="DB;PHP:Class Name;C:\openserver\OSPanel\domains\gbphp2\less2\patern singleton\Singleton.php;f0;1;1;19;;;;vpos;;v;;astTrait;;c;;r;;d8,1;;b0,0;;m0;;e">
+<treenode node="delete;PHP:Function Name;C:\openserver\OSPanel\domains\gbphp2\less2\patern singleton\Singleton.php;f4;13;5;15;;;;vpos;;v;;a;;r;;d21,13;;b0,0;;m0;;e">
+</treenode>
+<treenode node="insert;PHP:Function Name;C:\openserver\OSPanel\domains\gbphp2\less2\patern singleton\Singleton.php;f4;16;5;18;;;;vpos;;v;;a;;r;;d21,16;;b0,0;;m0;;e">
+</treenode>
+<treenode node="select;PHP:Function Name;C:\openserver\OSPanel\domains\gbphp2\less2\patern singleton\Singleton.php;f4;7;5;9;;;;vpos;;v;;a;;r;;d21,7;;b0,0;;m0;;e">
+</treenode>
+<treenode node="update;PHP:Function Name;C:\openserver\OSPanel\domains\gbphp2\less2\patern singleton\Singleton.php;f4;10;5;12;;;;vpos;;v;;a;;r;;d21,10;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="DigitalGood;PHP:Class Name;C:\openserver\OSPanel\domains\gbphp2\less2\DigitalGood.php;f0;1;1;5;;;;vpos;;v;;aGood;;c;;r;;d30,1;;b0,0;;m0;;e">
+<treenode node="finalPrice;PHP:Function Name;C:\openserver\OSPanel\domains\gbphp2\less2\DigitalGood.php;f4;2;5;4;;;;vpos;;v;;a;;r;;d25,2;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="Good;PHP:Class Name;C:\openserver\OSPanel\domains\gbphp2\less2\Good.php;f9;1;1;37;;;;vpos;;v;;a;;r;;d0,2;;b0,0;;m0;;e">
+<treenode node="finalPrice;PHP:Function Name;C:\openserver\OSPanel\domains\gbphp2\less2\Good.php;f13;7;34;7;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="getIncome;PHP:Function Name;C:\openserver\OSPanel\domains\gbphp2\less2\Good.php;f11;23;5;25;;;;vpos;;v;;a;;r;;d31,23;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getName;PHP:Function Name;C:\openserver\OSPanel\domains\gbphp2\less2\Good.php;f11;9;5;11;;;;vpos;;v;;a;;r;;d29,9;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getPrice;PHP:Function Name;C:\openserver\OSPanel\domains\gbphp2\less2\Good.php;f11;16;5;18;;;;vpos;;v;;a;;r;;d30,16;;b1,0;;m0;;e">
+</treenode>
+<treenode node="setIncome;PHP:Function Name;C:\openserver\OSPanel\domains\gbphp2\less2\Good.php;f11;26;5;28;;;;vpos;;v;;a;;r;;d38,26;;b1,0;;m0;;eincome;;p">
+</treenode>
+<treenode node="setName;PHP:Function Name;C:\openserver\OSPanel\domains\gbphp2\less2\Good.php;f11;12;5;14;;;;vpos;;v;;a;;r;;d34,12;;b1,0;;m0;;ename;;p">
+</treenode>
+<treenode node="setPrice;PHP:Function Name;C:\openserver\OSPanel\domains\gbphp2\less2\Good.php;f11;19;5;21;;;;vpos;;v;;a;;r;;d36,19;;b1,0;;m0;;eprice;;p">
+</treenode>
+<treenode node="show;PHP:Function Name;C:\openserver\OSPanel\domains\gbphp2\less2\Good.php;f11;30;5;36;;;;vpos;;v;;a;;r;;d26,30;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="PicesGood;PHP:Class Name;C:\openserver\OSPanel\domains\gbphp2\less2\PicesGood.php;f0;1;1;5;;;;vpos;;v;;aGood;;c;;r;;d28,1;;b0,0;;m0;;e">
+<treenode node="finalPrice;PHP:Function Name;C:\openserver\OSPanel\domains\gbphp2\less2\PicesGood.php;f4;2;5;4;;;;vpos;;v;;a;;r;;d25,2;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="Test;PHP:Class Name;C:\openserver\OSPanel\domains\gbphp2\less2\patern singleton\Singleton.php;f0;21;1;25;;;;vpos;;v;;a;;r;;d10,21;;b0,0;;m0;;e">
+<treenode node="showGoods;PHP:Function Name;C:\openserver\OSPanel\domains\gbphp2\less2\patern singleton\Singleton.php;f4;22;5;24;;;;vpos;;v;;a;;r;;d24,22;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="WeightGood;PHP:Class Name;C:\openserver\OSPanel\domains\gbphp2\less2\WeightGood.php;f0;1;1;5;;;;vpos;;v;;aGood;;c;;r;;d29,1;;b0,0;;m0;;e">
+<treenode node="finalPrice;PHP:Function Name;C:\openserver\OSPanel\domains\gbphp2\less2\WeightGood.php;f4;2;5;4;;;;vpos;;v;;a;;r;;d25,2;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="stTrait;PHP:Class Name;C:\openserver\OSPanel\domains\gbphp2\less2\patern singleton\SingletonTrait.php;f0;2;1;23;;;;vpos;;v;;a;;r;;d14,2;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\openserver\OSPanel\domains\gbphp2\less2\patern singleton\SingletonTrait.php;f12;4;5;9;;;;vpos;;v;;a;;r;;d34,4;;b3,0;;m0;;e">
+</treenode>
+<treenode node="getObject;PHP:Function Name;C:\openserver\OSPanel\domains\gbphp2\less2\patern singleton\SingletonTrait.php;f18;17;5;21;;;;vpos;;v;;a;;r;;d38,17;;b1,5;;m0;;e">
+</treenode>
+</treenode>
+</phptree>
+<jstree>
+</jstree>
+</codestructure>
