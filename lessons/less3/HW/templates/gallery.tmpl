@@ -1,0 +1,17 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    <h2 class="title">Галлерея картинок</h2>
+    <div class="wraper">
+      {% for img in images %}
+
+        <a href="bigImage.php?name=gallery_img/big/{{ img }}">
+          <img src="gallery_img/small/{{ img }}">
+        </a>
+        
+      {% endfor %}
+    </div>    
+  </body>
+</html>
