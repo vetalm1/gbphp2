@@ -28,7 +28,7 @@
 		<a href="index.php?c=page&act=index">Домой</a> |
 		<a href="index.php?c=catalog&act=getCatalog">Каталог товаров</a> |
 		<a href="index.php?c=basket&act=getBasket">Корзина<span id="basket-count"></span></a> |
-		<a href="index.php?c=order&act=getOrder">Заказы</a> |
+		<!-- <a href="index.php?c=order&act=getOrder">Заказы</a> | -->
 		<?php if (!$_SESSION['isAuth']): ?>
 		<a href="index.php?c=users&act=auth">Авторизация</a> |
 		<?endif?>
