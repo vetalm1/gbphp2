@@ -32,5 +32,5 @@ function getAuthHtml($title){
         <button class="m-1" type="submit">OK</button>
         </form>
         <a href="index.php?c=users&act=registration">Регистрация</a> ';
-        return $auth;
+    return $auth;
 }
